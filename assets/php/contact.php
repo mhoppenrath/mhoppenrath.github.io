@@ -1,8 +1,8 @@
 <?php
 
 	// Mail settings
-	$to      = "web-master72@yandex.ru";
-	$subject = "Test Contact Form";
+	$to      = "mmhoppenrath@gmail.com";
+	$subject = "Profile Hit";
 
 	// You can put here your email
 	$header = "From: noreply@parker.com\r\n";
