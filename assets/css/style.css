@@ -702,7 +702,7 @@ p.copyright {
 .module,
 .module-sm,
 .footer {
-	padding:  0;
+	padding: 50px 0;
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center center;
