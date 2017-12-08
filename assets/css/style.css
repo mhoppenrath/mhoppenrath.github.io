@@ -702,7 +702,7 @@ p.copyright {
 .module,
 .module-sm,
 .footer {
-	padding: 20% 0;
+	padding:  0;
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -860,8 +860,8 @@ p.copyright {
 	background: rgba(17, 17, 17, 0.3);
 	position: absolute;
 	content: "";
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 	top: 0;
 	left: 0;
 }
