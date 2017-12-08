@@ -456,10 +456,6 @@ p.copyright {
 	margin-top: 0;
 }
 
-.contactpad {
-	padding-bottom: : 60px;
-	margin-bottom: : 60px;
-}
 
 /*------------------------------------------------------------------
 [Navbar]
@@ -707,7 +703,7 @@ p.copyright {
 .module,
 .module-sm,
 .footer {
-	padding: 50px 0;
+	padding: 100px 0;
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center center;
